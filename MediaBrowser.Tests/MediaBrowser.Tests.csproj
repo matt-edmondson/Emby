@@ -74,6 +74,7 @@
     <Compile Include="MediaEncoding\Subtitles\SrtParserTests.cs" />
     <Compile Include="MediaEncoding\Subtitles\VttWriterTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RemoteLibrary\RemoteServerInfoTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Emby.Server.Implementations\Emby.Server.Implementations.csproj">
