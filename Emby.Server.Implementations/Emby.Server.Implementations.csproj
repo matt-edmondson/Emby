@@ -423,6 +423,7 @@
     <Compile Include="Playlists\PlaylistManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Reflection\AssemblyInfo.cs" />
+    <Compile Include="RemoteLibrary\RemoteLibraryConfigurationFactory.cs" />
     <Compile Include="RemoteLibrary\RemoteLibraryOptions.cs" />
     <Compile Include="RemoteLibrary\RemoteServerInfo.cs" />
     <Compile Include="ResourceFileManager.cs" />
