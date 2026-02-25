@@ -425,6 +425,7 @@
     <Compile Include="Reflection\AssemblyInfo.cs" />
     <Compile Include="RemoteLibrary\RemoteLibraryConfigurationFactory.cs" />
     <Compile Include="RemoteLibrary\RemoteLibraryOptions.cs" />
+    <Compile Include="RemoteLibrary\RemoteLibrarySyncTask.cs" />
     <Compile Include="RemoteLibrary\RemoteServerApiClient.cs" />
     <Compile Include="RemoteLibrary\RemoteServerInfo.cs" />
     <Compile Include="ResourceFileManager.cs" />
