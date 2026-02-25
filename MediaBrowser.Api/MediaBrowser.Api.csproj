@@ -100,6 +100,7 @@
     <Compile Include="UserService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RemoteLibrary\RemoteServerService.cs" />
+    <Compile Include="RemoteLibrary\RemoteStreamService.cs" />
     <Compile Include="VideosService.cs" />
     <Compile Include="Session\SessionInfoWebSocketListener.cs" />
   </ItemGroup>
